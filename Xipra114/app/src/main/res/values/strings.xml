@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Xipra114</string>
+    <string-array name="picSelect">
+        <item>pic 1</item>
+        <item>pic 2</item>
+        <item>pic 3</item>
+        <item>pic 4</item>
+    </string-array>
+</resources>
